@@ -1,0 +1,21 @@
+body
+{
+ background-color:black;
+ color: white;
+}
+td
+{
+border: 2px solid blueviolet;
+}
+
+h5{
+    font-size: 25px;
+    text-align:center;
+    color: lightpink;
+    border: 5px solid;
+    border-color: red;
+}
+h4{
+    font-size: 50px;
+    color: blueviolet;
+}
